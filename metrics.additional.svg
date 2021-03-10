@@ -1014,14 +1014,14 @@
             </div>
           
             <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 13.636363636363635px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               14
             </div>
           
             <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 9.090909090909092px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 13.636363636363635px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               15
             </div>
           
@@ -1102,8 +1102,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">29</span>
-                <div class="bar" style="height: 43.93939393939394px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">31</span>
+                <div class="bar" style="height: 46.96969696969697px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Wed
               </div>
             
