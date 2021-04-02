@@ -1053,9 +1053,9 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            2
+                            3
                         </span>
-                        <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         04
                     </div>
                     <div class="entry">
@@ -1156,9 +1156,9 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            5
+                            4
                         </span>
-                        <div class="bar" style="height: 41.66666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         19
                     </div>
                     <div class="entry">
@@ -1214,9 +1214,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                9
+                                8
                             </span>
-                            <div class="bar" style="height: 10.465116279069768px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 9.30232558139535px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
@@ -1235,9 +1235,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                6
+                                7
                             </span>
-                            <div class="bar" style="height: 6.976744186046512px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8.13953488372093px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Sat
                         </div>
                     </div>
