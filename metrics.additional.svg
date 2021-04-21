@@ -1099,8 +1099,8 @@
               01
             </div>
                     <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               02
             </div>
                     <div class="entry">
@@ -1119,8 +1119,8 @@
               05
             </div>
                     <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">5</span>
+              <div class="bar" style="height: 41.66666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               06
             </div>
                     <div class="entry">
@@ -1225,8 +1225,8 @@
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">41</span>
-                <div class="bar" style="height: 43.61702127659575px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">40</span>
+                <div class="bar" style="height: 42.5531914893617px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
@@ -1235,8 +1235,8 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">12</span>
-                <div class="bar" style="height: 12.76595744680851px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">13</span>
+                <div class="bar" style="height: 13.829787234042554px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
