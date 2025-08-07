@@ -40,8 +40,8 @@
                             03
                         </div>
                         <div class="entry">
-                            <span class="value">10</span>
-                            <div class="bar" style="height: 41.66666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">12</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             04
                         </div>
                         <div class="entry">
@@ -130,13 +130,13 @@
                             21
                         </div>
                         <div class="entry">
-                            <span class="value">8</span>
-                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">7</span>
+                            <div class="bar" style="height: 29.166666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             22
                         </div>
                         <div class="entry">
-                            <span class="value">8</span>
-                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">7</span>
+                            <div class="bar" style="height: 29.166666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             23
                         </div>
                     </div>
@@ -363,14 +363,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="385.7654685839255" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="385.7654685839255" y="0" width="52.871755263671155" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="438.63722384759666" y="0" width="13.955674117347044" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.5928979649437" y="0" width="5.434101020158733" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="458.0269989851024" y="0" width="0.714791448489247" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.7417904335917" y="0" width="0.6865353896971277" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="459.42832582328884" y="0" width="0.2943974049849363" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.72272322827376" y="0" width="0.27727677172625975" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="385.55308242730325" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="385.55308242730325" y="0" width="53.095902861612785" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.64898528891604" y="0" width="13.947990713231748" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.59697600214776" y="0" width="5.431109233893868" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="458.02808523604165" y="0" width="0.7143979145394914" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.74248315058117" y="0" width="0.6861574123386612" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="459.4286405629198" y="0" width="0.2942353222210387" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.7228758851408" y="0" width="0.27712411485916444" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
